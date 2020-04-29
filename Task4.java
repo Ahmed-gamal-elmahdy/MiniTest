@@ -1,10 +1,5 @@
 import java.util.Scanner;
 import java.lang.Math;
-/*
- * Ahmed gamal
- * Bn:3 sec:1
- * ahmedabbs9@gmail.com
- */
 
 public class Task4 {
 	static Scanner input = new Scanner(System.in);
@@ -27,6 +22,7 @@ public class Task4 {
 			break;
 		case 3:
 			problemThree();
+			break;
 		case 4:
 			problemFour();
 		}
